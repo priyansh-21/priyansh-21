@@ -12,13 +12,13 @@
 
 ## `whoami`
 
-I'm a Computer Science Engineering student focused on building scalable backend systems and improving my software engineering skills.
+I'm a Computer Science Engineering student passionate about **backend development, scalable systems, and cloud technologies**. I enjoy building real-world projects with Java and continuously improving my software engineering skills.
 
-- 🔭 Currently working on **Microservices E-Commerce Backend System**
-- 🌱 Learning **Microservices, Spring Boot, Docker, AWS and Azure**
-- 💻 Primary stack: **Java + Spring Boot**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🎯 Goal: Build strong software engineering projects and prepare for top product-based companies
+* 🔭 Currently building a **Microservices E-Commerce Platform**
+* 🌱 Learning **Microservices, Spring Boot, Docker, AWS & Azure**
+* 💻 Primary stack: **Java + Spring Boot**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🎯 Focused on becoming a strong **Software Engineer**
 
 ---
 
@@ -27,70 +27,78 @@ I'm a Computer Science Engineering student focused on building scalable backend 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=spring,mysql" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## `projects`
+## `featured-projects`
 
-### 🛒 Microservices E-Commerce Backend System
+### 🛒 [Microservices E-Commerce Platform](https://github.com/priyansh-21/ecommerce-microservices-platform)
 
-A backend system based on microservices architecture.
+A scalable backend platform built using a microservices architecture.
 
 **Tech:** Java • Spring Boot • MySQL • Docker • Microservices
 
 ---
 
-### ☁️ Cloud-Native File Storage System
+### 💳 [Finance Tracker](https://github.com/priyansh-21/finance-tracker)
 
-A cloud-focused file storage project using AWS and Azure.
+A finance management application focused on tracking and managing financial data.
 
-**Tech:** AWS • Azure
+**Tech:** JavaScript • Frontend Development
 
 ---
 
-### 🐛 Issue Tracking System
+### 🛍️ [E-Commerce Frontend Platform](https://github.com/priyansh-21/ecommerce-frontend-platform)
 
-A software project focused on managing and tracking issues.
+A modern frontend application focused on building an intuitive e-commerce experience.
+
+**Tech:** JavaScript • HTML • CSS
+
+---
+
+## `currently-learning`
+
+```text
+Java → Spring Boot → Microservices → Docker → Cloud
+                         ↘ AWS & Azure
+```
 
 ---
 
 ## `github-stats`
 
 <p align="center">
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api?username=priyansh-21&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=priyansh-21&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh-21&theme=tokyonight&hide_border=true" />
+ src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh-21&theme=tokyonight&hide_border=true" />
 
 </p>
 
 <p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh-21&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh-21&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -98,15 +106,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh-21&
 ## `connect-with-me`
 
 <p>
-
-<a href="https://github.com/priyansh-21">
-<img src="https://img.shields.io/badge/GitHub-Priyansh_Gautam-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/priyansh-21">
+    <img src="https://img.shields.io/badge/GitHub-Priyansh_Gautam-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ### `while (!success) { keepLearning(); }`
 
-⭐ *Building, learning, and improving every day.*
+⭐ *Building scalable systems, learning continuously, and improving every day.*
