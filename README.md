@@ -1,35 +1,53 @@
 # Hi 👋, I'm Priyansh Gautam
 
-### Java Full Stack Developer | Backend & Cloud Enthusiast
+### 🚀 Java Full Stack Developer | Backend, Microservices & Cloud Enthusiast
 
-<p>
-  <a href="https://github.com/priyansh-21">
-    <img src="https://komarev.com/ghpvc/?username=priyansh-21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=priyansh-21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+> Building scalable applications, learning continuously, and growing as a Software Engineer. 🚀
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student passionate about building **backend systems, scalable applications, and cloud-based solutions**.
+I'm a **Computer Science Engineering student** passionate about building **backend systems, scalable applications, full-stack projects, and cloud-based solutions**.
 
-My primary focus is **Java and Spring Boot**, and I'm currently expanding my knowledge in **Microservices, Docker, AWS, and Azure**.
+My primary focus is **Java and Spring Boot**, and I'm currently expanding my knowledge in **Microservices Architecture, Docker, AWS, and Azure**.
 
-- 🔭 Currently building a **Microservices E-Commerce Platform**
+```text
+💻 ROLE        → Java Full Stack Developer
+☕ PRIMARY     → Java + Spring Boot
+🏗️ FOCUS       → Backend + Microservices
+☁️ CLOUD       → AWS + Azure
+🗄️ DATABASE    → MySQL
+🧠 PRACTICING  → Data Structures & Algorithms
+🎯 GOAL        → Software Engineer
+```
+
+### 🔭 Currently
+
+- 🛒 Building a **Microservices E-Commerce Platform**
 - 🌱 Learning **Microservices Architecture, Docker, AWS & Azure**
-- 💻 Primary stack: **Java + Spring Boot + MySQL**
+- 💻 Improving my **Java + Spring Boot + MySQL** skills
 - 🧠 Practicing **Data Structures & Algorithms**
-- 🎯 Goal: Becoming a strong **Software Engineer**
+- 🚀 Exploring scalable backend and cloud-based architectures
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
 ### ⚙️ Backend & Databases
@@ -52,67 +70,165 @@ My primary focus is **Java and Spring Boot**, and I'm currently expanding my kno
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 [Microservices E-Commerce Platform](https://github.com/priyansh-21/ecommerce-microservices-platform)
+## 🛒 Microservices E-Commerce Platform
 
-A scalable backend platform built using a **microservices architecture** for managing users, products, orders, and payments.
+A scalable backend platform built using a **Microservices Architecture** for managing core e-commerce operations such as users, products, orders, and payments.
 
-**Highlights:**
+### ✨ Highlights
 
-- Service-based architecture using Spring Boot
-- API Gateway and Service Discovery
-- MySQL database integration
-- Docker containerization
-- Designed for scalable backend development
+- ⚙️ Service-based architecture using Spring Boot
+- 🌐 API Gateway for centralized routing
+- 🔍 Service Discovery for microservice communication
+- 🗄️ MySQL database integration
+- 🐳 Docker-based containerization
+- 📈 Designed for scalable backend development
 
-**Tech Stack:**  
-`Java` • `Spring Boot` • `MySQL` • `Docker` • `Microservices`
+### 🛠 Tech Stack
+
+`Java` • `Spring Boot` • `Spring Cloud` • `Microservices` • `MySQL` • `Docker`
+
+<p>
+  <a href="https://github.com/priyansh-21/ecommerce-microservices-platform">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-### 💳 [Finance Tracker](https://github.com/priyansh-21/finance-tracker)
+## 💰 Finance Tracker
 
-A full-stack personal finance management application focused on secure transaction tracking and financial insights.
+A modern personal finance management application focused on managing financial records, transactions, and financial insights.
 
-**Highlights:**
+### ✨ Highlights
 
-- User authentication and authorization
-- Transaction management
-- Interactive financial analytics
-- Responsive dashboard interface
+- 🔐 User authentication and authorization
+- 💳 Transaction management
+- 📊 Financial analytics and insights
+- 📱 Responsive dashboard interface
+- 💡 Clean and user-friendly experience
 
-**Tech Stack:**  
+### 🛠 Tech Stack
+
 `JavaScript` • `React` • `JWT` • `Full Stack`
 
+<p>
+  <a href="https://finance-tracker-drab-sigma.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20App-success?style=for-the-badge&logo=vercel" />
+  </a>
+
+  <a href="https://github.com/priyansh-21/finance-tracker">
+    <img src="https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 ---
 
-### 🛍️ [E-Commerce Frontend Platform](https://github.com/priyansh-21/ecommerce-frontend-platform)
+## 🛍️ E-Commerce Frontend Platform
 
 A responsive e-commerce frontend focused on providing a clean and intuitive shopping experience.
 
-**Highlights:**
+### ✨ Highlights
 
-- Responsive user interface
-- Product-focused design
-- Modern frontend development practices
+- 🎨 Responsive user interface
+- 🛒 Product-focused design
+- 📱 Mobile-friendly layout
+- ⚡ Modern frontend development practices
 
-**Tech Stack:**  
+### 🛠 Tech Stack
+
 `JavaScript` • `HTML` • `CSS`
+
+<p>
+  <a href="https://github.com/priyansh-21/ecommerce-frontend-platform">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-## 📚 Currently Learning
+# 📚 Learning Roadmap
 
 ```text
 Java
-  ↓
+  │
+  ▼
 Spring Boot
-  ↓
+  │
+  ▼
 Microservices
-  ↓
-Docker
-  ↓
-Cloud
- ↙     ↘
-AWS   Azure
+  │
+  ▼
+Docker & DevOps
+  │
+  ▼
+Cloud Computing
+  ├───────────────┐
+  ▼               ▼
+ AWS             Azure
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=priyansh-21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="170"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh-21&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=priyansh-21&theme=tokyonight&hide_border=true"
+  />
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=priyansh-21&theme=tokyo-night&hide_border=true"
+  />
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+
+  <a href="https://github.com/priyansh-21">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Building • Learning • Improving
+
+**Always learning, always building, always moving forward.**
+
+</p>
